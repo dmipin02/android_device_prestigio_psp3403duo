@@ -1,3 +1,4 @@
+See other branches for more information.
 # Device configuration for Prestigio Wize L3 (PSP3403DUO)
 
 Basic   | Spec Sheet
