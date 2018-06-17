@@ -1,0 +1,13 @@
+dalvik.vm.heapstartsize=5m
+dalvik.vm.heapgrowthlimit=48m
+dalvik.vm.heapsize=128m
+dalvik.vm.heaptargetutilization=0.75
+dalvik.vm.heapminfree=512k
+dalvik.vm.heapmaxfree=2m
+
+ro.sf.lcd_density=240
+ro.opengles.version=131072
+
+persist.sys.usb.config=mass_storage,adb
+
+ro.product.camera_model=PSP3403DUO
